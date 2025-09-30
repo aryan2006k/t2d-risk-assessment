@@ -30,7 +30,7 @@ An advanced machine learning system that provides **personalized risk assessment
    ```bash
    git clone https://github.com/aryan2006k/t2d-risk-assessment.git
    cd t2d-risk-assessment
-2.Install Dependencies and Run the Application
+2. Install Dependencies and Run the Application
    ```bash
    pip install -r requirements.txt
    python app.py   
