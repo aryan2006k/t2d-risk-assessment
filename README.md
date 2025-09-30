@@ -1,13 +1,12 @@
 ---
-title: T2D Risk Assessment
-emoji: 🏥
+title: T2D Risk Predictor
+emoji: 🩺
 colorFrom: blue
-colorTo: green
+colorTo: indigo
 sdk: gradio
-sdk_version: 4.8.0
+sdk_version: 4.26.0
 app_file: app.py
 pinned: false
-license: mit
 ---
 
 # 🏥 Interpretable ML Framework for Type 2 Diabetes Risk Assessment
