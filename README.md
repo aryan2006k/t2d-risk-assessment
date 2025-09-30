@@ -28,5 +28,5 @@ An advanced machine learning system that provides **personalized risk assessment
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/t2d-risk-assessment.git
+   git clone https://github.com/aryan2006k/t2d-risk-assessment.git
    cd t2d-risk-assessment
