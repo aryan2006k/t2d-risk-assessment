@@ -7,29 +7,24 @@ sdk: gradio
 sdk_version: 4.26.0
 app_file: app.py
 pinned: false
+license: mit
 ---
 
-# 🏥 Interpretable ML Framework for Type 2 Diabetes Risk Assessment
+# Interpretable ML Framework for Type 2 Diabetes Risk Assessment
 
-An advanced machine learning system that provides **personalized risk assessment for Type 2 Diabetes (T2D)**, with interpretable AI explanations and evidence-based lifestyle recommendations.
+An advanced machine learning system that provides personalized T2D risk assessment with interpretable AI explanations and evidence-based lifestyle recommendations.
 
-## ✨ Features
+## Features
 
-- **Risk Prediction**: Accurate Type 2 Diabetes risk assessment using ensemble machine learning models  
-- **Interpretability**: SHAP-based explanations for transparency and clinical trust  
-- **Personalized Recommendations**: Tailored lifestyle modification suggestions  
-- **Interactive Dashboard**: User-friendly Gradio-powered interface  
-- **Clinical Integration**: EHR-compatible data processing for real-world deployment  
+- **Risk Prediction**: Accurate T2D risk assessment using ensemble ML models  
+- **Interpretability**: SHAP-based explanations for transparency  
+- **Personalized Recommendations**: Tailored lifestyle modifications  
+- **Interactive Dashboard**: User-friendly Gradio interface  
+- **Clinical Integration**: EHR-compatible data processing  
 
----
+## Installation
 
-## 🚀 Getting Started
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/aryan2006k/t2d-risk-assessment.git
-   cd t2d-risk-assessment
-2. Install Dependencies and Run the Application
-   ```bash
-   pip install -r requirements.txt
-   python app.py   
+```bash
+git clone https://huggingface.co/spaces/<username>/t2d-risk-predictor
+cd t2d-risk-predictor
+pip install -r requirements.txt
